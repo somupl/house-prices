@@ -16,6 +16,8 @@ You will not be submitting results to Kaggle. This is only for in-class work.
 
 #### Instructions
 
+Fork and Clone this repository.
+
 You are trying to predict the **Sale Price** of a house based on various predictors.
 
 This is a regression, so after preparing the the data (eda, splits, feature engineering, etc.), do a **linear regression** first using the `sklearn` implementation. What is the **MSE** on the *test set*, not on *training*.
